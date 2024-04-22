@@ -10,16 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce376ce9-4ff6-4320-8e37-32874a03676b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/answer_button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/data/questions.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/models/quiz_questions.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/questions_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/questions_summary/question_identifier.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/questions_summary/question_summary.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/questions_summary/summary_item.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/quiz.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/results_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/start_screen.dart" afterDir="false" />
       <change beforePath="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/flutter-sdk/packages/flutter/lib/src/widgets/basic.dart" beforeDir="false" afterPath="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/flutter-sdk/packages/flutter/lib/src/widgets/basic.dart" afterDir="false" />
       <change beforePath="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/flutter/dev/benchmarks/macrobenchmarks/lib/src/web/material3.dart" beforeDir="false" afterPath="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/flutter/dev/benchmarks/macrobenchmarks/lib/src/web/material3.dart" afterDir="false" />
       <change beforePath="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/flutter/dev/integration_tests/flutter_gallery/lib/demo/calculator/home.dart" beforeDir="false" afterPath="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/flutter/dev/integration_tests/flutter_gallery/lib/demo/calculator/home.dart" afterDir="false" />
@@ -60,11 +50,6 @@
       <change beforePath="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/flutter/examples/api/test/material/switch/switch.2_test.dart" beforeDir="false" afterPath="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/flutter/examples/api/test/material/switch/switch.2_test.dart" afterDir="false" />
       <change beforePath="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/flutter/examples/api/test/material/toggle_buttons/toggle_buttons.0_test.dart" beforeDir="false" afterPath="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/flutter/examples/api/test/material/toggle_buttons/toggle_buttons.0_test.dart" afterDir="false" />
       <change beforePath="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/flutter/examples/api/test/material/toggle_buttons/toggle_buttons.1_test.dart" beforeDir="false" afterPath="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/flutter/examples/api/test/material/toggle_buttons/toggle_buttons.1_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,21 +122,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Dart Command Line App.widget_test.dart.executor": "Run",
-    "Flutter.main.dart.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "io.flutter.reload.alreadyRun": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/eydisagusts/Desktop/NTV/flutter_projects/first_app",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Dart Command Line App.widget_test.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/eydisagusts/Desktop/NTV/flutter_projects/first_app&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib" />

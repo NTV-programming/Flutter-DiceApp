@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/Flutter-NTV" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/flutter" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/NTV/flutter_projects/first_app/flutter-sdk" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/flutter" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/flutter-sdk" vcs="Git" />
   </component>
 </project>
